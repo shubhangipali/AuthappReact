@@ -1,0 +1,23 @@
+.accordionn {
+  border-bottom: 16px solid rgba(2, 6, 12, 0.0509803922);
+  margin: 10px;
+}
+
+.accordionn-bar {
+  background-color: #f1f3f6;
+  width: 100%;
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.accordionn-header {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.3px;
+  color: rgba(2, 6, 12, 0.92);
+}
